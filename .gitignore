@@ -1,0 +1,7 @@
+*/.idea
+*/__pycache__
+*/.vscode
+lab1/idea/.idea
+lab1/idea/out
+lab1/idea/idea.iml
+lab3/python/.idea
